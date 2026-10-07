@@ -1,0 +1,8 @@
+{
+  "name": "CareerOS",
+  "description": "Your Complete Career Operating System — Discover, research, compare, and establish your verified career path with evidence-backed intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
